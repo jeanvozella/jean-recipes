@@ -1,2 +1,4 @@
 # jean-recipes
-A quick project to create a website using basic HTML.
+A very basic dessert recipe website created with just HTML.
+
+Nothing revolutionary, but this was fun to make! 
